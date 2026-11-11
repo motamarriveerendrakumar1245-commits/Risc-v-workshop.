@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/motam/Downloads/FPGA _/MODELSIM/project/shifter
+vshifter
+!s110 1794426472
+!i10b 1
+!s100 UL4SeiaYd>LQ^CO@eQTLL3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IiKT91Zo>e>DB4<0g^oVLS1
+R0
+w1794426380
+8shifter.v
+Fshifter.v
+!i122 0
+L0 3 15
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z4 !s108 1794426471.000000
+!s107 shifter.v|shifter_tb.v|
+Z5 !s90 -reportprogress|300|shifter_tb.v|shifter.v|
+!i113 1
+Z6 tCvgOpt 0
+vshifter_tb
+!s110 1794426471
+!i10b 1
+!s100 H2BOJFCm`8cM74^EX6^2d1
+R1
+IlG^cPCS4nBA=0Q<A5Oa091
+R0
+w1794426405
+8shifter_tb.v
+Fshifter_tb.v
+!i122 0
+L0 2 32
+R2
+R3
+r1
+!s85 0
+31
+R4
+Z7 !s107 shifter.v|shifter_tb.v|
+R5
+!i113 1
+R6
