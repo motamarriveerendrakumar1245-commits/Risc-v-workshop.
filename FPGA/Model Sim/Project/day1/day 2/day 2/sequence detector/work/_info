@@ -1,0 +1,77 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/motam/Downloads/FPGA _/MODELSIM/project/day 2/sequence detector
+vsequence_detector_mealy
+Z1 !s110 1794430194
+!i10b 1
+!s100 L]4nFJjAO>BJA6f3mdzFA2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IC5RVd2EHV:bVBbBz87e>P1
+R0
+Z3 w1794430096
+Z4 8sequence_detector.v
+Z5 Fsequence_detector.v
+!i122 0
+L0 43 57
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z8 !s108 1794430194.000000
+!s107 sequence_detector.v|sequence_detector_tb.v|
+Z9 !s90 -reportprogress|300|sequence_detector_tb.v|sequence_detector.v|
+!i113 1
+Z10 tCvgOpt 0
+vsequence_detector_moore
+R1
+!i10b 1
+!s100 zCM]OIi2Fz0>UFoYW2CF63
+R2
+I`hWiRa4R4MNTfeLdJlL[02
+R0
+R3
+R4
+R5
+!i122 0
+L0 2 39
+R6
+R7
+r1
+!s85 0
+31
+R8
+Z11 !s107 sequence_detector.v|sequence_detector_tb.v|
+R9
+!i113 1
+R10
+vsequence_detector_tb
+R1
+!i10b 1
+!s100 fVDnSYe]zaL=MDRz29cKU1
+R2
+IbLm1dFfZTW1e;l=]@3:YW3
+R0
+w1794429182
+8sequence_detector_tb.v
+Fsequence_detector_tb.v
+!i122 0
+L0 2 73
+R6
+R7
+r1
+!s85 0
+31
+R8
+R11
+R9
+!i113 1
+R10
